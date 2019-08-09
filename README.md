@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## <Arm Wrestling>
 
-a brief description of your project goes here
+'Arm Wrestling' is a two player game in which participants compete to see who can press their button the most times.  The program keeps track of button clicks, and whoever has more at the end of the 10 second time period is the winner.
