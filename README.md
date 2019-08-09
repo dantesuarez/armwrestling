@@ -2,7 +2,7 @@
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
 ![my_screenshot](./SoarCSHardware.jpg)
-![](images/SoarCSSoftware.JPG)
+![](./SoarCSSoftware.jpg)
 <!--
 In this file, you should write a brief description of what your
 project is, what you learned, and a simple screenshot of your work.
